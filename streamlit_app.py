@@ -54,7 +54,7 @@ if uploaded_file is not None:
     if prediction == labels[0]:
          st.write("LLL")
     elif prediction == labels[1]:
-         st.write("강남스타")
+         st.write("don't touch")
     elif prediction == labels[2]:
          st.write("王")
 
